@@ -1,0 +1,25 @@
+<ul>
+    <li>Início</li>
+    <li>Sobre</li>
+    <li>Contato</li>
+</ul>
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Meu Site</title>
+    <link rel="stylesheet" href="estilo.css">
+</head>
+
+<body>
+
+    <h1>Olá 👋</h1>
+    <p>Esse é meu site.</p>
+
+</body>
+</html>
+<img src="imagens/foto.jpg" width="200">
+<button>Click aqui</button>
+<h2>Sobre mim</h2>
+<p>Eu estou aprendendo a criar sites.</p>
+
